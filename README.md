@@ -1,3 +1,3 @@
 - Hi, I’m Ömer Gemalmayan
 - I’m currently learning Computer Science
-- Freshman at Bilkent University
+- Second year at Bilkent University
